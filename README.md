@@ -1,6 +1,11 @@
+
 # MongoDB Fundamentals - Week 1
 
+[](https://github.com/PLP-MERN-Stack-Development/mongodb-data-layer-fundamentals-and-advanced-techniques-Ajoke752/blob/main/README.md#mongodb-fundamentals---week-1)
+
 ## Setup Instructions
+
+[](https://github.com/PLP-MERN-Stack-Development/mongodb-data-layer-fundamentals-and-advanced-techniques-Ajoke752/blob/main/README.md#setup-instructions)
 
 Before you begin this assignment, please make sure you have the following installed:
 
@@ -10,9 +15,11 @@ Before you begin this assignment, please make sure you have the following instal
 
 ### Node.js Package Setup
 
+[](https://github.com/PLP-MERN-Stack-Development/mongodb-data-layer-fundamentals-and-advanced-techniques-Ajoke752/blob/main/README.md#nodejs-package-setup)
+
 Once you have Node.js installed, run the following commands in your assignment directory:
 
-```bash
+```shell
 # Initialize a package.json file
 npm init -y
 
@@ -22,18 +29,25 @@ npm install mongodb
 
 ## Assignment Overview
 
+[](https://github.com/PLP-MERN-Stack-Development/mongodb-data-layer-fundamentals-and-advanced-techniques-Ajoke752/blob/main/README.md#assignment-overview)
+
 This week focuses on MongoDB fundamentals including:
-- Creating and connecting to MongoDB databases
-- CRUD operations (Create, Read, Update, Delete)
-- MongoDB queries and filters
-- Aggregation pipelines
-- Indexing for performance
+
+* Creating and connecting to MongoDB databases
+* CRUD operations (Create, Read, Update, Delete)
+* MongoDB queries and filters
+* Aggregation pipelines
+* Indexing for performance
 
 ## Submission
+
+[](https://github.com/PLP-MERN-Stack-Development/mongodb-data-layer-fundamentals-and-advanced-techniques-Ajoke752/blob/main/README.md#submission)
 
 Complete all the exercises in this assignment and push your code to GitHub using the provided GitHub Classroom link.
 
 ## Getting Started
+
+[](https://github.com/PLP-MERN-Stack-Development/mongodb-data-layer-fundamentals-and-advanced-techniques-Ajoke752/blob/main/README.md#getting-started)
 
 1. Accept the GitHub Classroom assignment invitation
 2. Clone your personal repository that was created by GitHub Classroom
@@ -43,17 +57,23 @@ Complete all the exercises in this assignment and push your code to GitHub using
 
 ## Files Included
 
-- `Week1-Assignment.md`: Detailed assignment instructions
-- `insert_books.js`: Script to populate your MongoDB database with sample book data
+[](https://github.com/PLP-MERN-Stack-Development/mongodb-data-layer-fundamentals-and-advanced-techniques-Ajoke752/blob/main/README.md#files-included)
+
+* `Week1-Assignment.md`: Detailed assignment instructions
+* `insert_books.js`: Script to populate your MongoDB database with sample book data
 
 ## Requirements
 
-- Node.js (v18 or higher)
-- MongoDB (local installation or Atlas account)
-- MongoDB Shell (mongosh) or MongoDB Compass
+[](https://github.com/PLP-MERN-Stack-Development/mongodb-data-layer-fundamentals-and-advanced-techniques-Ajoke752/blob/main/README.md#requirements)
+
+* Node.js (v18 or higher)
+* MongoDB (local installation or Atlas account)
+* MongoDB Shell (mongosh) or MongoDB Compass
 
 ## Resources
 
-- [MongoDB Documentation](https://docs.mongodb.com/)
-- [MongoDB University](https://university.mongodb.com/)
-- [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/) 
+[](https://github.com/PLP-MERN-Stack-Development/mongodb-data-layer-fundamentals-and-advanced-techniques-Ajoke752/blob/main/README.md#resources)
+
+* [MongoDB Documentation](https://docs.mongodb.com/)
+* [MongoDB University](https://university.mongodb.com/)
+* [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/)
